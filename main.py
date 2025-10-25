@@ -1,4 +1,12 @@
+"""
+Hello World
+"""
+
+
 def main():
+    """
+    Function to hello to the world
+    """
     print("Hello from climber-app!")
 
 
