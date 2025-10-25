@@ -1,0 +1,11 @@
+# ---- Directories to Ignore ----
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.vscode/
+.idea/
+
